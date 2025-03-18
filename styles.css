@@ -1,0 +1,41 @@
+/* Estilos CSS generales */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Centrar el contenido de la tarjeta */
+    margin-top: 20px;  /* Espacio superior para las tarjetas */
+}
+
+
+
+
+/* Título de la tarjeta */
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px; /* Espacio debajo del título */
+}
+
+/* Texto de la tarjeta */
+.card-text {
+    font-size: 16px;
+    color: #555;
+    text-align: center; /* Centrar el texto dentro de .card-text */
+}
+
+/* Estilo para el encabezado principal (h1) */
+h1 {
+    color: #007bff;
+    font-size: 36px;
+    text-align: center; /* Centrar el título principal */
+    margin-top: 30px;  /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+}
